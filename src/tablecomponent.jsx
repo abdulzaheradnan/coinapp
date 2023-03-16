@@ -118,7 +118,7 @@ export default function BasicTable(props) {
             <table>
   <tr>
     <th style={{width:50}}>Name</th>
-    <th>Price</th>
+    <th>rate</th>
     <th>(24Hr)</th>
   </tr>
   {rows.slice(0,props.page).map((row)=>{

@@ -1,6 +1,6 @@
 {
   "name": "coinapp",
-  "http":"//abdulzaheradnan.github.io/coinapp",
+  "homepage":"http://abdulzaheradnan.github.io/coinapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
